@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Endangered Animals 1</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    
+    </head>
+    <body>
+    
+       <h1>Endangered Animals</h1>
+        <h2>
+            Pig-footed Bandicoot
+        </h2>
+        <ul>
+            <li class="sceintific-name"> Chaeropus ecaudatus</li>
+            <li>Australia</li>
+            <li class="endangered">Endangered</li>
+        </ul>
+        <img id="bandicoot" src="https://th.bing.com/th/id/OIP.01-9Aeixc37dN6NTBoWy_gAAAA?w=232&h=144&c=7&r=0&o=5&dpr=2&pid=1.7" alt="A Pig Footed Bandicoot" width=200" height="200">
+
+        <h2>
+            Gray Bat
+        </h2>
+        <ul>
+            <li class="sceintific-name">Myotis grisescens</li>
+            <li>Central and southeastern U.S</li>
+            <li class="endangered">Endangered</li>
+        </ul>
+        <img id="bat" src="https://th.bing.com/th/id/OIP.yBljOaaHwBuldTvPskKNdwHaFD?w=266&h=182&c=7&r=0&o=5&dpr=2&pid=1.7" alt="A Gray Bat" width=200" height="200">
+
+        <h2>
+            Grizzly Bear
+        </h2>
+        <ul>
+            <li class="sceintific-name">Ursus arctos horribilis</li>
+            <li>Holarctic</li>
+            <li class="threatened">Threatened</li>
+        </ul>
+        <img id="bear" src="https://th.bing.com/th/id/OIP.SW-lpm7IbEraTyzid7V4YgHaEt?w=313&h=199&c=7&r=0&o=5&dpr=2&pid=1.7" alt="2 Grizzly Bears" width=200" height="200">
+    </body>
+</html>
