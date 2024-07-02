@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Say Cheese!</title>
+    </head>
+    <body>
+        <header> 
+            <h1>Say Cheese!</h1>
+            <h3>The People Pleaser</h3>
+            <link rel="stylesheet" type="text/css" href="style.css">
+            
+        </header>
+        <hr>
+        <main>
+
+            <div>
+           <h3>Cheese?</h3> 
+           <p>Yes, Cheese. The dairy product that is often overlooked. Cheese is mainly just a topping or add-on,
+             never the star of the show exculding cheese boards. Just a dipping sauce or slice placed on sandwiches or burgers. It has been hidden 
+            by other flavors.</p>
+             <img id="cheese" src="https://t3.ftcdn.net/jpg/05/66/02/98/240_F_566029808_X7praimuCQt0MsLCmw5d65Pp5KqmTS8e.jpg" alt="Block of Cheese">
+            </div>
+
+            <div>
+                <h3>Just?</h3>
+                <p>Cheese is not JUST anything. Cheese is anything. A cube, a slice, a wheel, a ball, a wedge.
+                 Cheese is whatever it wants to be.</p>
+                <p class="word">Cheese is the ULTIMATE PEOPLE PLEASER.</p>
+                <p> It spends decades aging just to please people with its flavor,
+                 yet to be still overlooked. It is melted, molded, fried, smashed, and shredded so it can be eaten.
+                There are even thousands of diffrent types from around the world. Yet people treat it like its hardly there.</p>
+                <img id="cheeses" src="https://t4.ftcdn.net/jpg/03/20/99/03/240_F_320990339_7RxrmFGvzMcj8nNNj27LL6euigPIvees.jpg" alt="Different kinds of Cheese">
+            </div>
+
+            <div>
+                <h3>So?</h3>
+                <p>So! Nearly 42 pounds of cheese is consumed by the average American annually.</p>
+                <blockquote>"In 2022, the average consumer in the United States ate about 41.8 pounds of cheese. (Statisca.com)"</blockquote>
+                <p>There were 333.33 million people living in America in 2022. That means 13,999,860,000 pounds of Cheese was consumed, assuming everyone
+                ate 42 pounds of cheese that year.</p>
+                <p>It take 10 pounds of Cows milk to craft 1 Pound of cheese. That means 139,998,600,000 pounds of cows milk was used to make
+                     the amount of cheese americans ate in 2022. A cow can produce nearly 11,000 gallons of milk in its lifetime, meaning 12,727,145 cows
+                      were used to produce the milk needed to make the cheese.</p>
+                      <h5>Just for the cheese to be overlooked when its put on the plate.</h5>
+                      <img class="cows" src="https://t4.ftcdn.net/jpg/00/05/88/33/240_F_5883353_vNJ2GRBNrbuwoEfWgWPtKDQf459YPSYA.jpg" alt="Jumping Cow">
+                      <img class="cows" src="https://t4.ftcdn.net/jpg/00/05/88/33/240_F_5883353_vNJ2GRBNrbuwoEfWgWPtKDQf459YPSYA.jpg" alt="Jumping Cow">
+                      <img class="cows" src="https://t4.ftcdn.net/jpg/00/05/88/33/240_F_5883353_vNJ2GRBNrbuwoEfWgWPtKDQf459YPSYA.jpg" alt="Jumping Cow">
+                      <img class="cows" src="https://t4.ftcdn.net/jpg/00/05/88/33/240_F_5883353_vNJ2GRBNrbuwoEfWgWPtKDQf459YPSYA.jpg" alt="Jumping Cow">
+                      <img class="cows" src="https://t4.ftcdn.net/jpg/00/05/88/33/240_F_5883353_vNJ2GRBNrbuwoEfWgWPtKDQf459YPSYA.jpg" alt="Jumping Cow">
+                      <img class="cows" src="https://t4.ftcdn.net/jpg/00/05/88/33/240_F_5883353_vNJ2GRBNrbuwoEfWgWPtKDQf459YPSYA.jpg" alt="Jumping Cow">
+                      <img class="cows" src="https://t4.ftcdn.net/jpg/00/05/88/33/240_F_5883353_vNJ2GRBNrbuwoEfWgWPtKDQf459YPSYA.jpg" alt="Jumping Cow">
+                      <img class="cows" src="https://t4.ftcdn.net/jpg/00/05/88/33/240_F_5883353_vNJ2GRBNrbuwoEfWgWPtKDQf459YPSYA.jpg" alt="Jumping Cow">
+
+            </div>
+            <div>
+                <h3>Thats not that much!</h3>
+                <p>42 pound is about a Average 4 year old. The average American consumes a 4 year old, in Cheese, each year without noticing.
+                Nobody batts a eye at the thought that cheese is on your burger, sandwich, soup, potatoes, or even on chips; but if a 4 year old
+                was there instead there would be more than just stares.
+                </p>
+                <a href="comparison.html">Weight comparisons</a>
+                
+            </div>
+
+            <div>
+                <h3>Cheese is Cheese, its does not matter.</h3>
+                <p>Correct! Cheese is Cheese no matter the form. Whether its a wheel or a slice or even cubed or diced, it is still Cheese.
+                    People will still see it a call it 'Cheese' no matter its correct name. It is glanced over again and again although its
+                    only goal is to please you. It will become blue and green but it still is eaten, without a compliment to its pretty colors.
+                    Cheese will get new jewerlry like herbs and spices to update its taste, but it is still eaten with only a slim possibilty for a 
+                    compliment on the unique flavoring.
+                </p>
+            </div>
+            <div>
+                <h3>Get to Know Cheese!</h3>
+                <p>So before you eat Cheese think 'Maybe I should get to know Cheese?' and maybe you wont overlook it and take it for granted
+                    ever again
+                </p>
+                <a href="cheese.html">Get to Know Cheese</a>
+            </div>
+            <div>
+                <h3>Dont just glance of Cheese like it isnt even there:</h3>
+                    <img class="burger" src="https://t3.ftcdn.net/jpg/05/78/63/90/240_F_578639004_qBebwZGDV2Y5l7U9AVE4nUzTnSW5pjN5.jpg" alt="Hamburger Bun">
+                    <img class="burger" src="https://t4.ftcdn.net/jpg/01/30/36/05/240_F_130360586_7eHQPo9Ny0Ti4G62BtFJOfF3kYXdibxg.jpg" alt="Meat">
+                    <img class="burger"src="https://t4.ftcdn.net/jpg/05/33/19/91/240_F_533199172_p9mEsMiWUDeUViOHfLrFAHlKUk0rqC9X.jpg" alt="lettuce">
+                    <img class="burger"id="slice" src="https://t4.ftcdn.net/jpg/02/26/11/07/240_F_226110779_WEpm2L9Ax0Z6LOu8mIq3t31pFyNRMIwj.jpg" alt="Slice of Cheese">
+                    <img class="burger"src="https://t3.ftcdn.net/jpg/01/16/11/84/240_F_116118453_qr24DrZAwqZ8I01kqxR2AgqR8NmFrZnX.jpg" alt="Tomato">
+                <p>Learn to be a better person. Notice the little things!</p>
+            </div>
+            <div id="li">
+                <h4>SORRY TO ALL LACTOSE INTOLERENT PEOPLE</h4>
+            </div>
+    
+        </main>
+        <footer>
+            <p>
+                <a href="cheese.html">Get to Know Cheese</a>
+            </p>
+            <a href="comparison.html">Weight comparisons</a>
+        </footer>
+    </body>
+</html>
