@@ -1,0 +1,10 @@
+body{background-color: #FFD1AA; font-size: 18px}
+h1 {color: #003333;}
+ h2{color: #162655;}
+.sceintific-name
+{font-style: italic;}
+#bat {border-style: dashed; border-width: 5px;}
+#bear {border-style:groove ; border-width: 5px;}
+#bandicoot {border-style: dotted; border-width: 5px;}
+.endangered {color:red}
+.threatened {color:orangered}

@@ -1,0 +1,36 @@
+h3 {text-transform:uppercase}
+
+p{font-family:Ariel}
+
+body {background-image:url("https://th.bing.com/th/id/OIP.pkNb22fLEZuzB6T1iYlw5gHaFY?w=242&h=180&c=7&r=0&o=5&dpr=2&pid=1.7") ;}
+
+a {font-size: 16 px; font-style: italic;}
+
+header
+{border-style: solid;background-color: lightcyan;}
+
+main
+{background-color: lightcyan; height:80%; width: 70%; min-height:600px}
+
+footer {background-color: lightcyan;}
+
+.job-title
+{font-weight: bold; color:maroon}
+
+.large-list
+{font-size: 25px; font-weight: bold;}
+
+ol+ul
+{font-size: 18px; font-weight: normal;}
+
+img
+{width:200px; height:200px; border-width: 5px; border-style: solid;}
+
+main
+{margin: 15px; padding: 10px}
+
+footer
+{margin:50px; padding: 10px}
+
+img:hover {width:400px; height:400px; transition-duration: 1s;}
+
